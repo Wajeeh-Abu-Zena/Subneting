@@ -1,1 +1,1 @@
-# Subneting Calcolater 
+# Subnetting Calculator
